@@ -1,8 +1,12 @@
-# Android Engineering Portfolio
+# Ilya Prokofev · Android Engineering
 
 **GeoStamp Camera, Rulivo AR Ruler and StatusSave.**
 
-I am Ilya Prokofev. I build native Android applications that connect Kotlin interfaces with camera capture, AR geometry, location processing and Android media storage. This portfolio follows three published products into their actual source code: how data moves, how asynchronous work is coordinated, and where the current implementation has limits.
+**Senior Android Developer · Kotlin · Jetpack Compose · Kotlin Multiplatform**
+
+I build Android products from architecture to release. My commercial experience includes a B2B application with 15+ feature modules, MVI state management, GitLab CI and a production launch in six months. I currently work with Kotlin Multiplatform and Compose Multiplatform at Fido. [Experience and contact](https://github.com/ILYAPROKOFEV101).
+
+These three projects connect Kotlin interfaces with camera capture, AR geometry, location processing and Android media storage. Explore the source to see how data moves, how asynchronous work is coordinated, and how each implementation handles platform constraints.
 
 [Applications](#applications) · [Engineering work](#engineering-work) · [Source repositories](#source-repositories) · [Verification](docs/portfolio/VERIFICATION.md)
 
